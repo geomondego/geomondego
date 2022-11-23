@@ -1,6 +1,6 @@
 # Hello World
 
-<img src="https://geomondego.github.io/assets/img/profile-img.jpg" width=350>
+<img src="https://geomondego.github.io/assets/img/profile-img.jpg" width=150>
 
 
 <!--
